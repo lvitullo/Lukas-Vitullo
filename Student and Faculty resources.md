@@ -3,10 +3,10 @@ Microsoft Office
 
 Adobe Creative Cloud
 
-## Design+ Animation ## 
+## Design+Animation ## 
 Autodesk Maya
 
-## Music Production+ Recording Arts ## 
+## Music Production+Recording Arts ## 
 
 Pro Tools
 
