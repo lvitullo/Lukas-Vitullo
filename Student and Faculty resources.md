@@ -1,13 +1,16 @@
 ## All ##
 Microsoft Office
 - free for students
+ - Download from email page when logged ibn or check [here](https://www.microsoft.com/en-us/education/products/office)
+
 
 Adobe Creative Cloud
+- Adobe have offered free license through May. We have submitted request and should have response by 3/20
 
 ## Design+Animation ## 
 Autodesk Maya
 - Free for students [details](https://www.autodesk.com/education/free-software/maya)
-
+    
 ## Music Production+Recording Arts ## 
 
 Pro Tools
