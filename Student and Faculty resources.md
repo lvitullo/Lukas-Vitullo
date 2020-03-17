@@ -5,7 +5,7 @@ Adobe Creative Cloud
 
 ## Design+Animation ## 
 Autodesk Maya
-Free for students
+Free for students [details](https://www.autodesk.com/education/free-software/maya)
 
 ## Music Production+Recording Arts ## 
 
