@@ -9,6 +9,7 @@ Autodesk Maya
 ## Music Production+Recording Arts ## 
 
 Pro Tools
+free licenses pdf [here](https://cdn-www.avid.com/-/media/avid/files/corona-virus-2020/creative-product-foc-license-instructions.pdf?la=en&v=20200316211223)
 
 Reason
 
