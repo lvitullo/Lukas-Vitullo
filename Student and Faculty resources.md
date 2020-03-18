@@ -7,6 +7,9 @@ Microsoft Office
 Adobe Creative Cloud
 - Adobe have offered free license through May. We have submitted request and should have response by 3/20
 
+Booking time in labs on campus
+-   [Booked Scheduler](https://booked.mercy.edu/Web/view-schedule.php)
+
 ## Design+Animation ## 
 Autodesk Maya
 - Free for students [details](https://www.autodesk.com/education/free-software/maya)
