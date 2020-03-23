@@ -5,10 +5,10 @@ Microsoft Office
 
 
 Adobe Creative Cloud
-- Adobe have offered free license through May. We have submitted request and should have response by 3/20
+- Adobe have offered free license through May. Licenses received on 3/19. Download and install instructions emailed to students with existing Adobe accounts.
 
-Booking time in labs on campus
--   [Booked Scheduler](https://booked.mercy.edu/Web/view-schedule.php)
+Booking time in labs on campus CURRENTLY NOT AVAILABLE
+-   [Booked Scheduler](https://booked.mercy.edu) Closed Notice added to login page
 
 ## Design+Animation ## 
 Autodesk Maya
@@ -18,6 +18,8 @@ Autodesk Maya
 
 Pro Tools
 - free licenses pdf [here](https://cdn-www.avid.com/-/media/avid/files/corona-virus-2020/creative-product-foc-license-instructions.pdf?la=en&v=20200316211223)
+
+Sam has distributed licenses to students.
 
 Reason
 
