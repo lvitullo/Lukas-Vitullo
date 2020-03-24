@@ -23,6 +23,7 @@ Autodesk Maya
 
 ZBrush
 
+KeyShot
     
 ## Music Production+Recording Arts ## 
 
