@@ -36,7 +36,8 @@ Pro Tools
 
 Sam has distributed licenses to students.
 
-Reason
+Musition
+- Log in to cloud version [here](https://musition.cloud) 
 
 Ableton Live
 
