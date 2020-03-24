@@ -6,7 +6,7 @@ Files on campus server
 
 Microsoft Office
 - free for students
- - Download from email page when logged ibn or check [here](https://www.microsoft.com/en-us/education/products/office)
+ - Download from email page when logged in or check [here](https://www.microsoft.com/en-us/education/products/office)
 
 
 Adobe Creative Cloud
