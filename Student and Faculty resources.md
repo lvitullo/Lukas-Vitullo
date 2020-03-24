@@ -11,7 +11,7 @@ Microsoft Office
 
 Adobe Creative Cloud
 - Adobe have offered free license through May. Licenses received on 3/19.
-- Download and install instructions emailed to students with existing Adobe accounts.
+    - Download and install instructions emailed to students with existing Adobe accounts.
 - Available to all Mercy students even those without previous account, so email if this software needed
 
 Booking time in labs on campus is __CURRENTLY NOT AVAILABLE__
