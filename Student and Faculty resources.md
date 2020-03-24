@@ -1,7 +1,7 @@
 ## All ##
 Files on campus server
 -   These have been copied to a cloud drive
-    - All Class folders, except the enclosed "Instructor-Only" folders
+    - All Class folders, except the enclosed "Instructor-Only" folders are available.
     - Personal folders (Including My-Stuff) can be made available upon request.
 
 Microsoft Office
