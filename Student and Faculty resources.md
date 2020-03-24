@@ -1,4 +1,9 @@
 ## All ##
+Files on campus server
+-   These have been copied to a cloud drive
+    - All Class folders, except the enclosed "Instructor-Only" folders
+    - Personal folders (Including My-Stuff) can be made available upon request.
+
 Microsoft Office
 - free for students
  - Download from email page when logged ibn or check [here](https://www.microsoft.com/en-us/education/products/office)
@@ -7,7 +12,7 @@ Microsoft Office
 Adobe Creative Cloud
 - Adobe have offered free license through May. Licenses received on 3/19. Download and install instructions emailed to students with existing Adobe accounts.
 
-Booking time in labs on campus CURRENTLY NOT AVAILABLE
+Booking time in labs on campus is __CURRENTLY NOT AVAILABLE__
 -   [Booked Scheduler](https://booked.mercy.edu) Closed Notice added to login page
 
 ## Design+Animation ## 
