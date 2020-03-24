@@ -25,6 +25,10 @@ ZBrush
 
 KeyShot
     
+Foundry (Nuke, Mari, etc.)
+
+- [Free student account](https://www.foundry.com/education/apply/student) (1 year)
+
 ## Music Production+Recording Arts ## 
 
 Pro Tools
