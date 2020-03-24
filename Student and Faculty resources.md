@@ -39,16 +39,12 @@ Sam has distributed licenses to students.
 Reason
 
 Ableton Live
-Hello Music Students,
 
-For those of you use that need to use Abelton Live Suite including Max For Live we have a solution.
+For those of you use that need to use Ableton Live Suite including Max For Live we have a solution.
 
 Simply register for the [Ableton Trial here](https://www.ableton.com/en/trial/).  The trial is good for 30 days but Ableton said they will extend that an additional 30 days as needed.
 
-
-
 Use the [Ableton Contact Us Page](https://www.ableton.com/en/contact-us/) to request a longer trial around the 30-day mark.
-
 
 
 ## Other ##
