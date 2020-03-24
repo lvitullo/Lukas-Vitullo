@@ -20,6 +20,9 @@ Booking time in labs on campus is __CURRENTLY NOT AVAILABLE__
 ## Design+Animation ## 
 Autodesk Maya
 - Free for students [details](https://www.autodesk.com/education/free-software/maya)
+
+ZBrush
+
     
 ## Music Production+Recording Arts ## 
 
