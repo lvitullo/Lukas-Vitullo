@@ -43,6 +43,7 @@ Pro Tools
 Musition
 - Log in to cloud version [here](https://musition.cloud) 
   - use same account and password as in lab. School Code is _MERCYCOLLEGE_
+
 Ableton Live Suite including Max For Live
 
 - Register for the [Ableton Trial here](https://www.ableton.com/en/trial/).  The trial is good for 30 days but Ableton will extend that an additional 30 days as needed.
