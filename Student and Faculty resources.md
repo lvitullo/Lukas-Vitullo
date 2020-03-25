@@ -61,11 +61,9 @@ Native Instruments
 
 - [The Recording Engineer's Handbook – Bobby Owsinsk](https://www.amazon.com/Recording-Engineers-Handbook-4th/dp/0998503304/ref=sr_1_3?crid=1FHDYHJGR4BCU&keywords=bobby+owsinski&qid=1563379510&s=books&sprefix=bobby+ow%2Cstripbooks%2C123&sr=1-3)
  
-[Zen and the Art of Recording - Mixerman]
-(https://www.amazon.com/gp/product/1480387436/ref=dbs_a_def_rwt_bibl_vppi_i3)
+[Zen and the Art of Recording - Mixerman](https://www.amazon.com/gp/product/1480387436/ref=dbs_a_def_rwt_bibl_vppi_i3)
   
-[Recording Unhinged Sylvia Massy]
-(https://www.amazon.com/Recording-Unhinged-Creative-Unconventional-Techniques/dp/1495011275/ref=sr_1_1?crid=3GVV8MYIW8ZFG&keywords=recording+unhinged+sylvia+massy&qid=1563379344&s=gateway&sprefix=recording+unh%2Caps%2C125&sr=8-1)
+[Recording Unhinged Sylvia Massy](https://www.amazon.com/Recording-Unhinged-Creative-Unconventional-Techniques/dp/1495011275/ref=sr_1_1?crid=3GVV8MYIW8ZFG&keywords=recording+unhinged+sylvia+massy&qid=1563379344&s=gateway&sprefix=recording+unh%2Caps%2C125&sr=8-1)
 
 iZotope - Has an amazing [free video series](https://www.youtube.com/user/izotopeinc/featured) on Mastering
 
