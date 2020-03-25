@@ -59,7 +59,7 @@ Native Instruments
 - Headphone Mixing
   - [Sonarworks Reference plug-in](https://www.sonarworks.com/reference/downloads) - email sstauff@mercy.edu for a code
 
-[The Recording Engineer's Handbook – Bobby Owsinsk]
+- [The Recording Engineer's Handbook – Bobby Owsinsk]
 (https://www.amazon.com/Recording-Engineers-Handbook-4th/dp/0998503304/ref=sr_1_3?crid=1FHDYHJGR4BCU&keywords=bobby+owsinski&qid=1563379510&s=books&sprefix=bobby+ow%2Cstripbooks%2C123&sr=1-3)
  
 [Zen and the Art of Recording - Mixerman]
