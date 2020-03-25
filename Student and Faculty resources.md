@@ -32,9 +32,9 @@ Foundry (Nuke, Mari, etc.)
 ## Music Production+Recording Arts ## 
 
 Pro Tools
+- Sam has distributed licenses to students.
 - free licenses pdf [here](https://cdn-www.avid.com/-/media/avid/files/corona-virus-2020/creative-product-foc-license-instructions.pdf?la=en&v=20200316211223)
 
-Sam has distributed licenses to students.
 
 Musition
 - Log in to cloud version [here](https://musition.cloud) 
