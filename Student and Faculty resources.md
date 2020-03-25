@@ -45,6 +45,8 @@ Ableton Live Suite including Max For Live
 
     - Use the [Ableton Contact Us Page](https://www.ableton.com/en/contact-us/) to request a longer trial around the 30-day mark.
 
+Native Instruments
+- Native Instruments Komplete Start (small set of instruments) is free [here](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/)
 
 ## Other ##
 
