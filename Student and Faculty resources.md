@@ -79,18 +79,14 @@ Native Instruments
 
 - [JHS Youtube Guitar Pedal Show](https://www.youtube.com/user/jhspedals/featured)
 
-[Ableton Free Videos](https://www.ableton.com/en/) on their website
+- [Ableton Free Videos](https://www.ableton.com/en/) on their website
 
-Reason
-https://www.reasonstudios.com/blog/tag/video
+- [Reason](https://www.reasonstudios.com/blog/tag/video)
 
-Produce Like A Pro Youtube
-https://www.youtube.com/user/WarrenHuartRecording
+- [Produce Like A Pro](https://www.youtube.com/user/WarrenHuartRecording) on Youtube
 
-Andrew Huang
-https://www.youtube.com/user/songstowearpantsto/featured
+- [Andrew Huang](https://www.youtube.com/user/songstowearpantsto/featured)
 
-Waves
-https://www.waves.com/magazine
+- [Waves](https://www.waves.com/magazine)
 
-Documentaries on Netflix, Hulu and Amazon!
+- Documentaries on Netflix, Hulu and Amazon!
