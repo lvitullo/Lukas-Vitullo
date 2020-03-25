@@ -39,13 +39,11 @@ Pro Tools
 Musition
 - Log in to cloud version [here](https://musition.cloud) 
 
-Ableton Live
+Ableton Live Suite including Max For Live
 
-For those of you use that need to use Ableton Live Suite including Max For Live we have a solution.
+- Register for the [Ableton Trial here](https://www.ableton.com/en/trial/).  The trial is good for 30 days but Ableton will extend that an additional 30 days as needed.
 
-Simply register for the [Ableton Trial here](https://www.ableton.com/en/trial/).  The trial is good for 30 days but Ableton said they will extend that an additional 30 days as needed.
-
-Use the [Ableton Contact Us Page](https://www.ableton.com/en/contact-us/) to request a longer trial around the 30-day mark.
+    - Use the [Ableton Contact Us Page](https://www.ableton.com/en/contact-us/) to request a longer trial around the 30-day mark.
 
 
 ## Other ##
