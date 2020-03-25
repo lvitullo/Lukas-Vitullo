@@ -33,6 +33,7 @@ ZBrush
 
 
 KeyShot
+- email pwhite@mercy.edu for a 60-day license code
     
 Foundry (Nuke, Mari, etc.)
 
