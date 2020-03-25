@@ -27,6 +27,11 @@ Autodesk Maya
 
 ZBrush
 
+1) Register for the ZBrush 2020 Trial version here. Please use your mercy.edu email to do so.
+Install and activate ZBrush.
+Email pwhite@mercy.edu, confirming the email address you used to register for the Trial.
+
+
 KeyShot
     
 Foundry (Nuke, Mari, etc.)
