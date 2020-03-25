@@ -5,7 +5,7 @@ Files on campus server
     - Personal folders (Including My-Stuff) can be made available upon request.
 
 Remote Support from Phil
-- For quick chat, you can use Skype button from Mercy email page when logged in ("S" button, upper right). <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Microsoft_Skype_for_Business_logo.svg  alt="Skype Button" width=20>
+- For a quick chat, you can use Skype button from Mercy email page when logged in ("S" button, upper right). <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Microsoft_Skype_for_Business_logo.svg  alt="Skype Button" width=20>
 - For more complete chat and screen sharing, download [Skype for Business](https://products.office.com/en-us/skype-for-business/download-app). Log in using _mercy.edu_ account.
 
 Microsoft Office
