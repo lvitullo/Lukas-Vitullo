@@ -53,7 +53,7 @@ Ableton Live Suite including Max For Live
 Native Instruments
 - Native Instruments Komplete Start (small set of instruments) is free [here](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/)
 
-## Other ##
+### Other ###
 
 - [Moog and Korg Software Synths](https://www.engadget.com/2020-03-14-moog-and-korg-free-synth-apps.html)
 - Headphone Mixing
