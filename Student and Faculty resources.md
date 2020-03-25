@@ -69,19 +69,17 @@ Native Instruments
 
 - iZotope - [Pro Audio Essentials](https://pae.izotope.com/) (GREAT RESOURCE)
 
-Great Video Podcast about production - [Pensado's Place](https://www.pensadosplace.tv/)
+- Great Video Podcast about production - [Pensado's Place](https://www.pensadosplace.tv/)
 
-[Pro Tools Expert](https://www.pro-tools-expert.com/)
+- [Pro Tools Expert](https://www.pro-tools-expert.com/)
 
-[Song Exploder](http://songexploder.net/)
+- [Song Exploder](http://songexploder.net/)
 
-[Working Class Audio Podcast](https://www.workingclassaudio.com/)
+- [Working Class Audio Podcast](https://www.workingclassaudio.com/)
 
-JHS Youtube Guitar Pedal Show
-https://www.youtube.com/user/jhspedals/featured
+- [JHS Youtube Guitar Pedal Show](https://www.youtube.com/user/jhspedals/featured)
 
-Ableton Free Videos on their website
-https://www.ableton.com/en/
+[Ableton Free Videos](https://www.ableton.com/en/) on their website
 
 Reason
 https://www.reasonstudios.com/blog/tag/video
