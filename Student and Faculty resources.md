@@ -14,7 +14,7 @@ Adobe Creative Cloud
     - Download and install instructions emailed to students with existing Adobe accounts.
 - Available to all Mercy students even those without previous account, so email if this software needed
 
-Booking time in labs on campus is __CURRENTLY NOT AVAILABLE__
+Booking time in studios and labs on campus is __CURRENTLY NOT AVAILABLE__
 -   [Booked Scheduler](https://booked.mercy.edu) _Closed Notice_ added to login page
 
 ## Design+Animation ## 
