@@ -58,3 +58,49 @@ Native Instruments
 - [Moog and Korg Software Synths](https://www.engadget.com/2020-03-14-moog-and-korg-free-synth-apps.html)
 - Headphone Mixing
   - [Sonarworks Reference plug-in](https://www.sonarworks.com/reference/downloads) - email sstauff@mercy.edu for a code
+
+[The Recording Engineer's Handbook – Bobby Owsinsk]
+(https://www.amazon.com/Recording-Engineers-Handbook-4th/dp/0998503304/ref=sr_1_3?crid=1FHDYHJGR4BCU&keywords=bobby+owsinski&qid=1563379510&s=books&sprefix=bobby+ow%2Cstripbooks%2C123&sr=1-3)
+ 
+[Zen and the Art of Recording - Mixerman]
+(https://www.amazon.com/gp/product/1480387436/ref=dbs_a_def_rwt_bibl_vppi_i3)
+  
+[Recording Unhinged Sylvia Massy]
+(https://www.amazon.com/Recording-Unhinged-Creative-Unconventional-Techniques/dp/1495011275/ref=sr_1_1?crid=3GVV8MYIW8ZFG&keywords=recording+unhinged+sylvia+massy&qid=1563379344&s=gateway&sprefix=recording+unh%2Caps%2C125&sr=8-1)
+
+iZotope - Has an amazing [free video series](https://www.youtube.com/user/izotopeinc/featured) on Mastering
+
+iZotope - Pro Audio Essentials (GREAT RESOURCE)
+https://pae.izotope.com/
+
+Great Video Podcast about production - Pensado's Place
+https://www.pensadosplace.tv/
+
+Pro Tools Expert
+https://www.pro-tools-expert.com/
+
+Song Exploder
+http://songexploder.net/
+
+Working Class Audio Podcast
+https://www.workingclassaudio.com/
+
+JHS Youtube Guitar Pedal Show
+https://www.youtube.com/user/jhspedals/featured
+
+Ableton Free Videos on their website
+https://www.ableton.com/en/
+
+Reason
+https://www.reasonstudios.com/blog/tag/video
+
+Produce Like A Pro Youtube
+https://www.youtube.com/user/WarrenHuartRecording
+
+Andrew Huang
+https://www.youtube.com/user/songstowearpantsto/featured
+
+Waves
+https://www.waves.com/magazine
+
+Documentaries on Netflix, Hulu and Amazon!
