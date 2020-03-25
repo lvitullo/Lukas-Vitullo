@@ -85,7 +85,7 @@ Native Instruments
 
 - [Ableton Free Videos](https://www.ableton.com/en/) on their website
 
-- [Reason](https://www.reasonstudios.com/blog/tag/video)
+- [Reason Tutorials](https://www.reasonstudios.com/blog/tag/video)
 
 - [Produce Like A Pro](https://www.youtube.com/user/WarrenHuartRecording) on Youtube
 
