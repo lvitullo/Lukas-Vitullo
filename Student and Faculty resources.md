@@ -4,6 +4,10 @@ Files on campus server
     - All Class folders, except the enclosed "Instructor-Only" folders are available.
     - Personal folders (Including My-Stuff) can be made available upon request.
 
+Remote Support from Phil
+- Use Skype button from Mercy email page when logged in.
+- Download [Skype for Business](https://products.office.com/en-us/skype-for-business/download-app) to allow chat and screen sharing. Log in using _mercy.edu_ account.
+
 Microsoft Office
 - free for students
  - Download from email page when logged in or check [here](https://www.microsoft.com/en-us/education/products/office)
