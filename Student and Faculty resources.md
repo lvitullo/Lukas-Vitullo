@@ -70,8 +70,7 @@ Native Instruments
 
 iZotope - Has an amazing [free video series](https://www.youtube.com/user/izotopeinc/featured) on Mastering
 
-iZotope - Pro Audio Essentials (GREAT RESOURCE)
-https://pae.izotope.com/
+iZotope - [Pro Audio Essentials](https://pae.izotope.com/) (GREAT RESOURCE)
 
 Great Video Podcast about production - Pensado's Place
 https://www.pensadosplace.tv/
