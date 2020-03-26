@@ -29,11 +29,11 @@ ZBrush
 
 1. Register for the ZBrush 2020 Trial version here. Please __use your mercy.edu email__.
 2. Install and activate ZBrush.
-3. Email pwhite@mercy.edu, confirming the email address you used to register for the Trial.
+3. Email pwhite&#064;mercy.edu, confirming the email address you used to register for the Trial.
 
 
 KeyShot
-- email pwhite@mercy.edu for a 60-day license code
+- email pwhite&#064;mercy.edu for a 60-day license code
     
 Foundry (Nuke, Mari, etc.)
 
@@ -43,7 +43,7 @@ Foundry (Nuke, Mari, etc.)
 
 Pro Tools
 - Sam has distributed licenses to students.
-    - if you haven't received yours email sstauff@mercy.edu
+    - if you haven't received yours email sstauff&#064;mercy.edu
 
 
 Musition
