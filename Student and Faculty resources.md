@@ -43,7 +43,7 @@ Foundry (Nuke, Mari, etc.)
 
 Pro Tools
 - Sam has distributed licenses to students.
-- free licenses pdf [here](https://cdn-www.avid.com/-/media/avid/files/corona-virus-2020/creative-product-foc-license-instructions.pdf?la=en&v=20200316211223)
+    - if you haven't received yours email sstauff@mercy.edu
 
 
 Musition
