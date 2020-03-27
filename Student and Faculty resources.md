@@ -61,7 +61,7 @@ Native Instruments
   - Additional instrument _Analog Dreams_ offered free [here](https://www.native-instruments.com/en/products/komplete/play-series/analog-dreams/?sscid=31k4_j7idn)
 
 Logic X (Mac-only)
-- 
+- Check back for news of 90-day free trial or see [here](https://www.apple.com/logic-pro/).
 
 ### Other ###
 
