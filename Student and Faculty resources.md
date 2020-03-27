@@ -60,9 +60,14 @@ Native Instruments
 - Native Instruments Komplete Start (small set of instruments) is free [here](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/)
   - Additional instrument _Analog Dreams_ offered free [here](https://www.native-instruments.com/en/products/komplete/play-series/analog-dreams/?sscid=31k4_j7idn)
 
+Logic X (Mac-only)
+- 
+
 ### Other ###
 
 #### Software ####
+Final Cut Pro (Mac-only)
+-   90 Day free trial [here](https://www.apple.com/final-cut-pro/trial/)
 
 - [Moog and Korg Software Synths](https://www.engadget.com/2020-03-14-moog-and-korg-free-synth-apps.html)
 - Headphone Mixing
