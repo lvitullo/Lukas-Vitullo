@@ -75,7 +75,8 @@ Final Cut Pro (Mac-only)
 
 #### Books and Online Video ####
 
-- Groove 3 video tutorials for Logic Pro X, Pro Tools, Studio One, Ableton Live, Reason, Plug-Ins, Mixing and Mastering and more
+- _Groove 3_ video tutorials for Logic Pro X, Pro Tools, Studio One, Ableton Live, Reason, Plug-Ins, Mixing and Mastering and more
+    - Full library temporarily free
     - email sstauff&#064;mercy.edu for redemption code
     - [Redeem here](https://www.groove3.com/redeem)
 
