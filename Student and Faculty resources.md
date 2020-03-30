@@ -73,7 +73,14 @@ Final Cut Pro (Mac-only)
 - Headphone Mixing
   - [Sonarworks Reference plug-in](https://www.sonarworks.com/reference/downloads) - email sstauff@mercy.edu for a code
 
+- Groove 3 video tutorials for Logic Pro X, Pro Tools, Studio One, Ableton Live, Reason, Plug-Ins, Mixing and Mastering and more
+    - [Redeem here](https://www.groove3.com/redeem)
+
 #### Books and Online Video ####
+
+- Groove 3 video tutorials for Logic Pro X, Pro Tools, Studio One, Ableton Live, Reason, Plug-Ins, Mixing and Mastering and more
+    - email sstauff&#064;mercy.edu for redemption code
+    - [Redeem here](https://www.groove3.com/redeem)
 
 - [The Recording Engineer's Handbook – Bobby Owsinsk](https://www.amazon.com/Recording-Engineers-Handbook-4th/dp/0998503304/ref=sr_1_3?crid=1FHDYHJGR4BCU&keywords=bobby+owsinski&qid=1563379510&s=books&sprefix=bobby+ow%2Cstripbooks%2C123&sr=1-3)
  
