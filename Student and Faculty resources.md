@@ -79,7 +79,7 @@ Logic X (Mac-only)
 - [Moog and Korg Software Synths](https://www.engadget.com/2020-03-14-moog-and-korg-free-synth-apps.html)
 
 - Headphone Mixing
-  - [Sonarworks Reference plug-in](https://www.sonarworks.com/reference/downloads) - email sstauff@mercy.edu for a code
+  - [Sonarworks Reference plug-in](https://www.sonarworks.com/reference/downloads) - email sstauff&#064;mercy.edu for a code
 
 #### Books and Online Video ####
 
