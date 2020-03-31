@@ -2,7 +2,7 @@
 Files on campus server
 -   These have been copied to a cloud drive
     - All Class folders, except the enclosed "Instructor-Only" folders are available.
-    - Personal folders (Including My-Stuff) can be made available upon request.
+    - Personal folders (Including My-Stuff) are not on the cloud drive by default. These can be made available upon request. Email pwhite&#064;mercy.edu
 
 Remote Support from Phil
 - For a quick chat, you can use Skype button from Mercy email page when logged in ("S" button, upper right). <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Microsoft_Skype_for_Business_logo.svg  alt="Skype Button" width=20>
