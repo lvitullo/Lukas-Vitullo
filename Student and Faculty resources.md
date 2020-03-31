@@ -66,10 +66,18 @@ Logic X (Mac-only)
 ### Other ###
 
 #### Software ####
-Final Cut Pro (Mac-only)
--   90 Day free trial [here](https://www.apple.com/final-cut-pro/trial/)
+
+- East West (Multiple Sample Libraries)
+    - free 90 day ComposerCloud X EDU subscription
+        - sign up [here](http://www.soundsonline.com/stay-at-home-trial)
+    - _Note_: takes up hundreds of gigs of space on your hard drive so make sure you have the space available before signing up.
+    - Contact sstauff&#064;mercy.edu with any questions.
+
+- Final Cut Pro (Mac-only)
+    - 90 Day free trial [here](https://www.apple.com/final-cut-pro/trial/)
 
 - [Moog and Korg Software Synths](https://www.engadget.com/2020-03-14-moog-and-korg-free-synth-apps.html)
+
 - Headphone Mixing
   - [Sonarworks Reference plug-in](https://www.sonarworks.com/reference/downloads) - email sstauff@mercy.edu for a code
 
