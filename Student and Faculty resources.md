@@ -27,45 +27,45 @@ __Booking time in studios and lab__
     - [Booked Scheduler](https://booked.mercy.edu) _Closed Notice_ added to login page
 
 ## Design+Animation Students ## 
-Autodesk Maya
+__Autodesk Maya__
 - Free for students [details](https://www.autodesk.com/education/free-software/maya)
 
-ZBrush
+__ZBrush__
 
 1. Register for the ZBrush 2020 Trial version here. Please __use your mercy.edu email__.
 2. Install and activate ZBrush.
 3. Email pwhite&#064;mercy.edu, confirming the email address you used to register for the Trial.
 
 
-KeyShot
+__KeyShot__
 - email pwhite&#064;mercy.edu for a 60-day license code
     
-Foundry (Nuke, Mari, etc.)
+__Foundry__ (Nuke, Mari, etc.)
 
 - [Free student account](https://www.foundry.com/education/apply/student) (1 year)
 
 ## Music Production+Recording Arts Students ## 
 
-Pro Tools
+__Pro Tools__
 - Sam has distributed licenses to students.
     - if you haven't received yours email sstauff&#064;mercy.edu
 
 
-Musition
+__Musition__
 - Log in to cloud version [here](https://musition.cloud) 
   - use same account and password as in lab. School Code is _MERCYCOLLEGE_
 
-Ableton Live Suite including Max For Live
+__Ableton Live Suite__ including Max For Live
 
 - Register for the [Ableton Trial here](https://www.ableton.com/en/trial/).  The trial is good for 30 days but Ableton will extend that an additional 30 days as needed.
 
     - Use the [Ableton Contact Us Page](https://www.ableton.com/en/contact-us/) to request a longer trial around the 30-day mark.
 
-Native Instruments
+vNative Instruments__
 - Native Instruments Komplete Start (small set of instruments) is free [here](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/)
   - Additional instrument _Analog Dreams_ offered free [here](https://www.native-instruments.com/en/products/komplete/play-series/analog-dreams/?sscid=31k4_j7idn)
 
-Logic X (Mac-only)
+__Logic X__ (Mac-only)
 - 90-day free trial [here](https://www.apple.com/logic-pro/).
 
 ### Other ###
