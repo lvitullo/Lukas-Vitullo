@@ -1,7 +1,8 @@
 #### _This page will be updated as new information is available._ ####
 
-
+---
 ## All Students ##
+
 __Files on campus server__
 -   These have been copied to a cloud drive
     - All Class folders, except the enclosed "Instructor-Only" folders are available.
@@ -26,6 +27,7 @@ __Booking time in studios and lab__
 - __CURRENTLY NOT AVAILABLE__
     - [Booked Scheduler](https://booked.mercy.edu) _Closed Notice_ added to login page
 
+---
 ## Design+Animation Students ## 
 __Autodesk Maya__
 - Free for students [details](https://www.autodesk.com/education/free-software/maya)
@@ -48,6 +50,7 @@ __Other Software__
 - Final Cut Pro (Mac-only)
     - 90 Day free trial [here](https://www.apple.com/final-cut-pro/trial/)
 
+---
 ## Music Production+Recording Arts Students ## 
 
 __Pro Tools__
