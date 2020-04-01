@@ -77,7 +77,7 @@ __Logic X__ (Mac-only)
 
 __Other Software__
 - Soundtoys Effect Rack
-   - Free[fill in form here](http://www.soundtoys.com/rack-relief/?fbclid=IwAR10Oej5IFuXcKZCXCAiZbcxtS1WcOJ0OWgt25vJ-Bw0FxDUVPYeAokj9pI) through June 30
+   - Free through June 30 [fill in form here](http://www.soundtoys.com/rack-relief/?fbclid=IwAR10Oej5IFuXcKZCXCAiZbcxtS1WcOJ0OWgt25vJ-Bw0FxDUVPYeAokj9pI)
 - East West (Multiple Sample Libraries)
     - free 90 day ComposerCloud X EDU subscription
         - sign up [here](http://www.soundsonline.com/stay-at-home-trial)
