@@ -1,7 +1,7 @@
 #### _This page will be updated as new information is available._ ####
 
 
-## All Students##
+## All Students ##
 Files on campus server
 -   These have been copied to a cloud drive
     - All Class folders, except the enclosed "Instructor-Only" folders are available.
