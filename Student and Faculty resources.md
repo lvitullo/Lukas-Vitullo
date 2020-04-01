@@ -32,7 +32,7 @@ __Autodesk Maya__
 
 __ZBrush__
 
-1. Register for the ZBrush 2020 Trial version here. Please __use your mercy.edu email__.
+1. Register for the ZBrush 2020 Trial version [here](https://pixologic.com/zbrush/trial/). Please __use your mercy.edu email__.
 2. Install and activate ZBrush.
 3. Email pwhite&#064;mercy.edu, confirming the email address you used to register for the Trial.
 
