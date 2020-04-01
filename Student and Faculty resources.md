@@ -2,28 +2,29 @@
 
 
 ## All Students ##
-Files on campus server
+__Files on campus server__
 -   These have been copied to a cloud drive
     - All Class folders, except the enclosed "Instructor-Only" folders are available.
     - Personal folders (Including My-Stuff) are not on the cloud drive by default. These can be made available upon request. Email pwhite&#064;mercy.edu
 
-Remote Support from Phil
+__Remote Support from Phil__
 - For a quick chat, you can use Skype button from Mercy email page when logged in ("S" button, upper right). <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Microsoft_Skype_for_Business_logo.svg  alt="Skype Button" width=20>
 - For more complete chat and screen sharing, download [Skype for Business](https://products.office.com/en-us/skype-for-business/download-app). Log in using _mercy.edu_ account.
 - Since Mercy's Skype settings do not allow for audio, Zoom will be used when text chat is not sufficient.
 
-Microsoft Office
+__Microsoft Office__
 - free for students
  - Download from email page when logged in or check [here](https://www.microsoft.com/en-us/education/products/office)
 
 
-Adobe Creative Cloud
+__Adobe Creative Cloud__
 - Adobe have offered free license through May. Licenses received on 3/19.
     - Download and install instructions emailed to students with existing Adobe accounts.
 - Available to all Mercy students even those without previous account, so email if this software needed
 
-Booking time in studios and labs on campus is __CURRENTLY NOT AVAILABLE__
--   [Booked Scheduler](https://booked.mercy.edu) _Closed Notice_ added to login page
+__Booking time in studios and lab__
+- __CURRENTLY NOT AVAILABLE__
+    - [Booked Scheduler](https://booked.mercy.edu) _Closed Notice_ added to login page
 
 ## Design+Animation Students ## 
 Autodesk Maya
