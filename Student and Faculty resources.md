@@ -36,13 +36,17 @@ __ZBrush__
 2. Install and activate ZBrush.
 3. Email pwhite&#064;mercy.edu, confirming the email address you used to register for the Trial.
 
-
 __KeyShot__
 - email pwhite&#064;mercy.edu for a 60-day license code
     
 __Foundry__ (Nuke, Mari, etc.)
 
 - [Free student account](https://www.foundry.com/education/apply/student) (1 year)
+
+__Other Software__
+
+- Final Cut Pro (Mac-only)
+    - 90 Day free trial [here](https://www.apple.com/final-cut-pro/trial/)
 
 ## Music Production+Recording Arts Students ## 
 
