@@ -1,7 +1,7 @@
 #### _This page will be updated as new information is available._ ####
 
 
-## All ##
+## All Students##
 Files on campus server
 -   These have been copied to a cloud drive
     - All Class folders, except the enclosed "Instructor-Only" folders are available.
@@ -25,7 +25,7 @@ Adobe Creative Cloud
 Booking time in studios and labs on campus is __CURRENTLY NOT AVAILABLE__
 -   [Booked Scheduler](https://booked.mercy.edu) _Closed Notice_ added to login page
 
-## Design+Animation ## 
+## Design+Animation Students ## 
 Autodesk Maya
 - Free for students [details](https://www.autodesk.com/education/free-software/maya)
 
@@ -43,7 +43,7 @@ Foundry (Nuke, Mari, etc.)
 
 - [Free student account](https://www.foundry.com/education/apply/student) (1 year)
 
-## Music Production+Recording Arts ## 
+## Music Production+Recording Arts Students ## 
 
 Pro Tools
 - Sam has distributed licenses to students.
