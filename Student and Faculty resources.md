@@ -61,16 +61,14 @@ __Ableton Live Suite__ including Max For Live
 
     - Use the [Ableton Contact Us Page](https://www.ableton.com/en/contact-us/) to request a longer trial around the 30-day mark.
 
-vNative Instruments__
+__Native Instruments__
 - Native Instruments Komplete Start (small set of instruments) is free [here](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/)
   - Additional instrument _Analog Dreams_ offered free [here](https://www.native-instruments.com/en/products/komplete/play-series/analog-dreams/?sscid=31k4_j7idn)
 
 __Logic X__ (Mac-only)
 - 90-day free trial [here](https://www.apple.com/logic-pro/).
 
-### Other ###
-
-#### Software ####
+__Other Software__
 
 - East West (Multiple Sample Libraries)
     - free 90 day ComposerCloud X EDU subscription
