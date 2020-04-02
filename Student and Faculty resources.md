@@ -94,6 +94,12 @@ __Other Software__
 
 #### Books and Online Video ####
 
+Professor Stauff's Music Seminars
+- Mix of _I Got the Moon_
+    - [Part I](https://youtu.be/iik8YSPXhCA)
+    - [Part II](https://youtu.be/NMzFZ91xLu0)
+
+
 - _Groove 3_ video tutorials for Logic Pro X, Pro Tools, Studio One, Ableton Live, Reason, Plug-Ins, Mixing and Mastering and more
     - Full library temporarily free
     - email sstauff&#064;mercy.edu for redemption code
