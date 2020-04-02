@@ -46,7 +46,7 @@ __Foundry__ (Nuke, Mari, etc.)
 - [Free student account](https://www.foundry.com/education/apply/student) (1 year)
 
 __Other Software__
-_Sound Toys_
+
 - Final Cut Pro (Mac-only)
     - 90 Day free trial [here](https://www.apple.com/final-cut-pro/trial/)
 
