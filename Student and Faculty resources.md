@@ -100,9 +100,7 @@ __Other Software__
         - [Part II](https://youtu.be/NMzFZ91xLu0)
 
 - _Groove 3_ video tutorials for Logic Pro X, Pro Tools, Studio One, Ableton Live, Reason, Plug-Ins, Mixing and Mastering and more   __Full library temporarily free__
-
-1. email sstauff&#064;mercy.edu for redemption code
-2. [Redeem here](https://www.groove3.com/redeem)
+  - email sstauff&#064;mercy.edu for redemption code then redeem [here](https://www.groove3.com/redeem)
 
 - [The Recording Engineer's Handbook – Bobby Owsinsk](https://www.amazon.com/Recording-Engineers-Handbook-4th/dp/0998503304/ref=sr_1_3?crid=1FHDYHJGR4BCU&keywords=bobby+owsinski&qid=1563379510&s=books&sprefix=bobby+ow%2Cstripbooks%2C123&sr=1-3)
  
