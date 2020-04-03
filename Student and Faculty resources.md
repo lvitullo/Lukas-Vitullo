@@ -14,7 +14,7 @@ __Remote Support from Phil__
 - Since Mercy's Skype settings do not allow for audio, Zoom will be used when text chat is not sufficient.
 
 __Microsoft Office__
-- free for students
+- Free for students and faculty
  - Download from email page when logged in or check [here](https://www.microsoft.com/en-us/education/products/office)
 
 
