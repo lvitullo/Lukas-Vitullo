@@ -5,6 +5,7 @@
 
 __Files on campus server__
 -   These have been copied to a cloud drive
+    - Connect [here]
     - All Class folders, except the enclosed "Instructor-Only" folders are available.
     - Personal folders (Including My-Stuff) are not on the cloud drive by default. These can be made available upon request. Email pwhite&#064;mercy.edu
 
@@ -61,6 +62,7 @@ __Pro Tools__
 __Musition__
 - Log in to cloud version [here](https://musition.cloud) 
   - use same account and password as in lab. School Code is _MERCYCOLLEGE_
+- Installers for Mac and Windows [here](https://www.risingsoftware.com/cloudsupport/downloads)
 
 __Ableton Live Suite__ including Max For Live
 
