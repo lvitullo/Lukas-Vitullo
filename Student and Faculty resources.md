@@ -5,7 +5,7 @@
 
 __Files on campus server__
 -   These have been copied to a cloud drive
-    - Connect [here]
+    - Connect [here](https://mercyedu-my.sharepoint.com/:f:/g/personal/sp_odr_cata_1_mercy_edu/Ej-2GJoqok9Hu4EB_Xgbh4ABeMRkLaihEtgU1auaez6V1g?e=XB6Lso)
     - All Class folders, except the enclosed "Instructor-Only" folders are available.
     - Personal folders (Including My-Stuff) are not on the cloud drive by default. These can be made available upon request. Email pwhite&#064;mercy.edu
 
