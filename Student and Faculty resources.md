@@ -62,7 +62,7 @@ __Pro Tools__
 __Musition__
 - Log in to cloud version [here](https://musition.cloud) 
   - use same account and password as in lab. School Code is _MERCYCOLLEGE_
-- Installers for Mac and Windows [here](https://www.risingsoftware.com/cloudsupport/downloads)
+- _OPTIONAL_: Installers for Mac and Windows [here](https://www.risingsoftware.com/cloudsupport/downloads)
 
 __Ableton Live Suite__ including Max For Live
 
