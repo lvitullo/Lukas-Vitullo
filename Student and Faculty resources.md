@@ -86,6 +86,9 @@ __Other Software__
     - _Note_: takes up hundreds of gigs of space on your hard drive so make sure you have the space available before signing up.
     - Contact sstauff&#064;mercy.edu with any questions.
 
+- ProjectSAM free orchestral sound library
+    - Requires creating account [here](https://projectsam.com/libraries/the-free-orchestra/)
+
 - Final Cut Pro (Mac-only)
     - 90 Day free trial [here](https://www.apple.com/final-cut-pro/trial/)
 
