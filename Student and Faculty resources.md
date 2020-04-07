@@ -87,6 +87,7 @@ __Other Software__
     - Contact sstauff&#064;mercy.edu with any questions.
 
 - ProjectSAM free orchestral sound library
+    - Uses free Kontakt Player
     - Requires creating account [here](https://projectsam.com/libraries/the-free-orchestra/)
 
 - Final Cut Pro (Mac-only)
