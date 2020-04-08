@@ -4,7 +4,8 @@ __This page will be updated as new information is available.__| Updated _4/8/202
 ------------ | -------------:
 
 ---
-## For all Students ## (see below for program-specific resources)
+## For all Students ##
+(see below for program-specific resources)
 
 __Files on campus server__
 -   These have been copied to a cloud drive
