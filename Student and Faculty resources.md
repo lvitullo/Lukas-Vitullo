@@ -95,6 +95,9 @@ __Other Software__
     - Uses free Kontakt Player
     - Requires creating account [here](https://projectsam.com/libraries/the-free-orchestra/)
 
+- Fabfilter
+  - [Evaluation extension](https://www.fabfilter.com/covid19)
+
 - Final Cut Pro (Mac-only)
     - 90 Day free trial [here](https://www.apple.com/final-cut-pro/trial/)
 
