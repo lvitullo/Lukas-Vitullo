@@ -1,6 +1,8 @@
-#### _This page will be updated as new information is available._ ####
 
-##### | Updated 4/8/2020 | #####
+
+_This page will be updated as new information is available._ | Updated __4/8/2020__|
+------------ | -------------:
+
 ---
 ## All Students ##
 
