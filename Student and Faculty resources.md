@@ -95,7 +95,7 @@ __Other Software__
     - Uses free Kontakt Player
     - Requires creating account [here](https://projectsam.com/libraries/the-free-orchestra/)
 
-- Fabfilter
+- Fabfilter (mixing and mastering plugins)
   - [Evaluation extension](https://www.fabfilter.com/covid19)
 
 - Final Cut Pro (Mac-only)
