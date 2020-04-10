@@ -4,11 +4,12 @@ __This page will be updated as new information becomes available.__| Updated _4/
 ------------ | -------------:
 
 - [All Students](#ALL)
-- [Music Production+Recording Arts](#MPRA)
 - [Design+Animation](#DANDA)
+- [Music Production+Recording Arts](#MPRA)
+
 ---
 <a name="ALL"></a>
-## For all Students   (see further down for program-specific resources) ##
+## For all Students ##
 
 __Files on campus server__
 -   These have been copied to a cloud drive
