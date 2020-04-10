@@ -26,7 +26,7 @@ __Remote Support from Phil__
 
 __Microsoft Office__
 - Free for students and faculty
- - Download from email page when logged in or check [here](https://www.microsoft.com/en-us/education/products/office)
+  - Download from email page when logged in or check [here](https://www.microsoft.com/en-us/education/products/office)
 
 
 __Adobe Creative Cloud__
