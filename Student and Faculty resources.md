@@ -3,6 +3,7 @@
 __This page will be updated as new information becomes available.__| Updated _4/9/2020_|
 ------------ | -------------:
 
+Home Study Resources for:
 - [All Students](#ALL)
 - [Design+Animation](#DANDA)
 - [Music Production+Recording Arts](#MPRA)
@@ -115,10 +116,9 @@ __Other Software__
 
 #### Books and Online Video ####
 
-- Professor Stauff's Music Seminars
-    - Mix of _I Got the Moon_
-        - [Part I](https://youtu.be/iik8YSPXhCA)
-        - [Part II](https://youtu.be/NMzFZ91xLu0)
+- Professor Stauff's Mix Video Seminars
+    - [Youtube Channel](https://www.youtube.com/channel/UCLsifVEtEEqmyyINXtA4h-g)
+
 
 - _Groove 3_ video tutorials for Logic Pro X, Pro Tools, Studio One, Ableton Live, Reason, Plug-Ins, Mixing and Mastering and more   __Full library temporarily free__
   - email sstauff&#064;mercy.edu for redemption code then redeem [here](https://www.groove3.com/redeem)
