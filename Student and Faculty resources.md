@@ -2,8 +2,12 @@
 
 __This page will be updated as new information becomes available.__| Updated _4/9/2020_|
 ------------ | -------------:
-[Music Production+Recording Arts](#MPRA)
+
+- [All Students](#ALL)
+- [Music Production+Recording Arts](#MPRA)
+- [Design+Animation](#DANDA)
 ---
+<a name="ALL"></a>
 ## For all Students   (see further down for program-specific resources) ##
 
 __Files on campus server__
@@ -33,6 +37,7 @@ __Booking time in studios and lab__
     - [Booked Scheduler](https://booked.mercy.edu) _Closed Notice_ added to login page
 
 ---
+<a name="DANDA"></a>
 ## Design+Animation Students ## 
 __Autodesk Maya__
 - Free for students [details here](https://www.autodesk.com/education/free-software/maya)
