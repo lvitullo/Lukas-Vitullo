@@ -2,7 +2,7 @@
 
 __This page will be updated as new information becomes available.__| Updated _4/9/2020_|
 ------------ | -------------:
-
+[Music Production+Recording Arts](#MPRA)
 ---
 ## For all Students   (see further down for program-specific resources) ##
 
@@ -57,6 +57,7 @@ __Other Software__
     - 90 Day free trial [here](https://www.apple.com/final-cut-pro/trial/)
 
 ---
+<a name="MPRA"></a>
 ## Music Production+Recording Arts Students ## 
 
 __Pro Tools__
