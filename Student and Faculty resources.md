@@ -1,9 +1,9 @@
 
-
+<a name="TOP"></a>
 __This page will be updated as new information becomes available.__| Updated _4/10/2020_|
 ------------ | -------------:
 
-Home Study Resources for:<a name="TOP"></a>
+Home Study Resources for:
 - [All Students](#ALL)
 - [Design+Animation](#DANDA)
 - [Music Production+Recording Arts](#MPRA)
@@ -40,7 +40,7 @@ __Booking time in studios and lab__
 
 ---
 <a name="DANDA"></a>
-[Return to Top](#ALL)
+[Return to Top](#TOP)
 ## Design+Animation Students ## 
 __Autodesk Maya__
 - Free for students [details here](https://www.autodesk.com/education/free-software/maya)
@@ -67,6 +67,7 @@ __Other Software__
 
 ---
 <a name="MPRA"></a>
+[Return to Top](#TOP)
 ## Music Production+Recording Arts Students ## 
 
 __Pro Tools__
