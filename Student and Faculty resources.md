@@ -13,7 +13,7 @@ Home Study Resources for:
 ## All Students ##
 
 __Files on campus server__
--   These have been copied to a cloud drive
+-   These have been copied to a OneDrive cloud drive
     - Connect [here](https://mercyedu-my.sharepoint.com/:f:/g/personal/sp_odr_cata_1_mercy_edu/Ej-2GJoqok9Hu4EB_Xgbh4ABeMRkLaihEtgU1auaez6V1g?e=Spirsm). Use your Mercy email to log in. Once you have, the folder will appear in your OneDrive in the _Shared with me_ folder.
        - If this link fails to work, email Email pwhite&#064;mercy.edu right away.
     - All Class folders, except the enclosed "Instructor-Only" folders are available.
