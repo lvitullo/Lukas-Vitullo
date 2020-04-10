@@ -9,7 +9,7 @@ __This page will be updated as new information becomes available.__| Updated _4/
 
 ---
 <a name="ALL"></a>
-## For all Students ##
+## All Students ##
 
 __Files on campus server__
 -   These have been copied to a cloud drive
