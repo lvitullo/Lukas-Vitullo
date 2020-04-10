@@ -16,7 +16,7 @@ __Files on campus server__
 __Remote Support from Phil__
 - For a quick chat, you can use Skype button from Mercy email page when logged in ("S" button, upper right). <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Microsoft_Skype_for_Business_logo.svg  alt="Skype Button" width=20>
 - For more complete chat and screen sharing, download [Skype for Business](https://products.office.com/en-us/skype-for-business/download-app). Log in using _mercy.edu_ account.
-- Since Mercy's Skype settings do not allow for audio, Zoom will be used when text chat is not sufficient.
+- Since Mercy's Skype settings do not allow for audio, [Zoom](https://mercy.zoom.us) will be used when text chat is not sufficient.
 
 __Microsoft Office__
 - Free for students and faculty
