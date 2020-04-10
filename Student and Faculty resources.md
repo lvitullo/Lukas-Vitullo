@@ -116,8 +116,7 @@ __Other Software__
 
 #### Books and Online Video ####
 
-- Professor Stauff's Mix Video Seminars
-    - [Youtube Channel](https://www.youtube.com/channel/UCLsifVEtEEqmyyINXtA4h-g)
+- Professor Stauff's Mix Videos [Youtube Channel](https://www.youtube.com/channel/UCLsifVEtEEqmyyINXtA4h-g)
 
 
 - _Groove 3_ video tutorials for Logic Pro X, Pro Tools, Studio One, Ableton Live, Reason, Plug-Ins, Mixing and Mastering and more   __Full library temporarily free__
