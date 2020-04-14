@@ -44,7 +44,7 @@ __Booking time in studios and lab__
 ## Design+Animation Students ## 
 __Autodesk Maya__
 - Free for students [details here](https://www.autodesk.com/education/free-software/maya)
-  - Create an account if you don't already have one and login to download. (__IMPORTANT: Do NOT USE__ the link that says _Not a student or educator? Get the free trial_)
+  - Create an account if you don't already have one and login to download. (__IMPORTANT: Do NOT USE__ the link that says "_Not a student or educator? Get the free trial_")
 
 __ZBrush__
 
