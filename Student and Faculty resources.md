@@ -30,9 +30,9 @@ __Microsoft Office__
 
 
 __Adobe Creative Cloud__
-- Adobe have offered free license through May. Licenses received on 3/19.
-    - Download and install instructions emailed to students with existing Adobe accounts.
-- Available to all Mercy students even those without previous account, so email pwhite&#064;mercy.edu if this software is needed
+- Adobe is providing free licenses through May (these licenses were received on 3/19).
+    - Download and install instructions were emailed to students with existing Adobe accounts.
+- A license is available to any Mercy student, even one without an existing account. Email pwhite&#064;mercy.edu if this software is needed
 
 __Booking time in studios and lab__
 - __CURRENTLY NOT AVAILABLE__
