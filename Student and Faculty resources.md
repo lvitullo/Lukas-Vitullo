@@ -121,8 +121,8 @@ __Other Software__
 
 - Professor Stauff's Mix Videos [Youtube Channel](https://www.youtube.com/channel/UCLsifVEtEEqmyyINXtA4h-g)
 
-- [Practical Show Tech](https://practicalshowtechcom.squarespace.com)
-  - Live webcast about comms, rf, and audio. "...we are making use social distancing time by sharing knowledge of live show production  via live webcasts."
+- [Practical Show Tech](https://practicalshowtechcom.squarespace.com) - Live webcast about comms, rf, and audio.
+  - "...we are making use social distancing time by sharing knowledge of live show production  via live webcasts."
 - _Groove 3_ video tutorials for Logic Pro X, Pro Tools, Studio One, Ableton Live, Reason, Plug-Ins, Mixing and Mastering and more   __Full library temporarily free__
   - email sstauff&#064;mercy.edu for redemption code then redeem [here](https://www.groove3.com/redeem)
 
