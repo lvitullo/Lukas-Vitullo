@@ -126,7 +126,7 @@ __Other Software__
 - Slate Digital *Secrets of Music Production*
   - FREE for 90 days. SIgn up [here](https://app.slatedigital.com/authenticate/sign-up?redirect=%2Fmy-academy).
 - [Practical Show Tech](https://practicalshowtechcom.squarespace.com) - Live webcast about comms, rf, and audio.
-  - "...we are making use social distancing time by sharing knowledge of live show production  via live webcasts."
+  - "...we are making use social distancing time by sharing knowledge of live show production via live webcasts."
 - _Groove 3_ video tutorials for Logic Pro X, Pro Tools, Studio One, Ableton Live, Reason, Plug-Ins, Mixing and Mastering and more   __Full library temporarily free__
   - email sstauff&#064;mercy.edu for redemption code then redeem [here](https://www.groove3.com/redeem)
 
