@@ -20,7 +20,7 @@ __Files on campus server__
     - Personal folders (Including My-Stuff) are __not__ on the cloud drive by default. These can be made available upon request. Email pwhite&#064;mercy.edu
 
 __Remote Support from Phil__
-- For a quick chat, you can use Skype button from Mercy email page when logged in ("S" button, upper right). <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Microsoft_Skype_for_Business_logo.svg  alt="Skype Button" width=20>
+- For a quick chat, you can use Skype button from Mercy email page when logged in ( <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Microsoft_Skype_for_Business_logo.svg  alt="Skype Button" width=20> button, upper right). 
 - For more complete chat and screen sharing, download [Skype for Business](https://products.office.com/en-us/skype-for-business/download-app). Log in using _mercy.edu_ account.
 - Since Mercy's Skype settings do not allow for audio, [Zoom](https://mercy.zoom.us) will be used when text chat is not sufficient.
 
