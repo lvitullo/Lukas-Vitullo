@@ -17,7 +17,7 @@ __Files on campus server__
     - Connect [here](https://mercyedu-my.sharepoint.com/:f:/g/personal/sp_odr_cata_1_mercy_edu/Ej-2GJoqok9Hu4EB_Xgbh4ABeMRkLaihEtgU1auaez6V1g?e=Spirsm). Use your Mercy email to log in. Once you have, the folder will appear in your OneDrive in the _Shared with me_ folder.
        - If this link fails to work, email Email pwhite&#064;mercy.edu right away.
     - All Class folders, except the enclosed "Instructor-Only" folders are available.
-    - Personal folders (Including My-Stuff) are not on the cloud drive by default. These can be made available upon request. Email pwhite&#064;mercy.edu
+    - Personal folders (Including My-Stuff) are __not__ on the cloud drive by default. These can be made available upon request. Email pwhite&#064;mercy.edu
 
 __Remote Support from Phil__
 - For a quick chat, you can use Skype button from Mercy email page when logged in ("S" button, upper right). <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Microsoft_Skype_for_Business_logo.svg  alt="Skype Button" width=20>
